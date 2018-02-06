@@ -1,10 +1,10 @@
 {
-	"matchid": "12345",
-	"num_maps": 3,
+	"matchid": "XXXXX",
+	"num_maps": 1,
 	"players_per_team": 1,
 	"min_players_to_ready": 1,
 	"min_spectators_to_ready": 0,
-	"skip_veto": false,
+	"skip_veto": true,
 	"veto_first": "team1",
 	"side_type": "standard",
 
@@ -29,14 +29,14 @@
 	"favored_percentage_text": "HLTV Bets",
 
 	"team1": {
-		"name": "Mrigendra Team",
+		"name": "Migi Team",
 		"tag": "MigT",
 		"flag": "IN",
 		"logo": "nv",
 		"players":
-		[
-			"76561198113023998"
-		]
+		{
+			"76561198113023998": "montyss"
+		}
 	},
 
 	"team2": {
@@ -51,6 +51,7 @@
 	},
 
 	"cvars": {
-		"hostname": "Match Server #1"
+		"hostname": "PlayX eSports #XXXXX"
 	}
+	
 }
