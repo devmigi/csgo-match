@@ -1,0 +1,56 @@
+{
+	"matchid": "12345",
+	"num_maps": 3,
+	"players_per_team": 1,
+	"min_players_to_ready": 1,
+	"min_spectators_to_ready": 0,
+	"skip_veto": false,
+	"veto_first": "team1",
+	"side_type": "standard",
+
+	"spectators": {
+		"players":
+		[
+		]
+	},
+
+	"maplist":
+	[
+		"de_cache",
+		"de_cbble",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_train"
+	],
+
+	"favored_percentage_team1": 65,
+	"favored_percentage_text": "HLTV Bets",
+
+	"team1": {
+		"name": "Mrigendra Team",
+		"tag": "MigT",
+		"flag": "IN",
+		"logo": "nv",
+		"players":
+		[
+			"76561198113023998"
+		]
+	},
+
+	"team2": {
+		"name": "Kabeer",
+		"tag": "KabJ",
+		"flag": "IN",
+		"logo": "fntc",
+		"players":
+		[
+			"STEAM_1:1:183514187" 
+		]
+	},
+
+	"cvars": {
+		"hostname": "Match Server #1"
+	}
+}
