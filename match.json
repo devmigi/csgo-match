@@ -45,9 +45,9 @@
 		"flag": "IN",
 		"logo": "fntc",
 		"players":
-		[
-			"STEAM_1:1:183514187" 
-		]
+		{
+			"STEAM_1:1:183514187": "Kaaabbb"
+		}
 	},
 
 	"cvars": {
